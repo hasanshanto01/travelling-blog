@@ -1,8 +1,29 @@
 #title{
     background-color: lightskyblue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .title-text{
     text-align: center;
+}
+.blog-post{
+    background-color: lightskyblue;
+    font-family: 'Courier New', Courier, monospace;
+    height: 250px;
+    width: 90%;
+    margin: 20px auto;
+    border: 2px dotted black;
+    border-radius: 15px;
+}
+.blog-header{
+    color: goldenrod;
+    text-align: center;
+}
+.posted-by{
+    color: goldenrod;
+}
+.post{
+    text-align: justify;
 }
