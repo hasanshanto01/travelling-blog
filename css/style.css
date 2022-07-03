@@ -1,5 +1,8 @@
 #title{
     background-color: lightskyblue;
+    color: lightslategray;
+    border: 2px solid lightslategray;
+    border-radius: 10px;
 }
 .title-text{
     text-align: center;
